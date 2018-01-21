@@ -1,0 +1,32 @@
+"swat"
+{
+	"base"		"base"
+	"title"		"SWAT"
+	"maps"		""
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+		1
+		{
+			"name"		"swat_roundtime"
+			"text"		"Round Time"
+			"help"		"Total time each round is"
+			"type"		"Numeric"
+			"default"	"20"
+		}
+
+
+		2
+		{
+			"name"		"swat_allowtasers"
+			"text"		"Allow Tasers"
+			"help"		"If enabled, tasers will be allowed for SWAT teams"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+	}
+
+}
